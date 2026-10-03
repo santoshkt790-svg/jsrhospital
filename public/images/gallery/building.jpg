@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+    <rect width="800" height="600" fill="#0B2A5B"/>
+    <rect x="20" y="20" width="760" height="560" rx="16" fill="none" stroke="#C9A227" stroke-width="2" stroke-dasharray="8 8"/>
+    <g fill="#FFFFFF" font-family="sans-serif" text-anchor="middle">
+      <path d="M400 220 C420 180 470 180 470 230 C470 280 400 320 400 320 C400 320 330 280 330 230 C330 180 380 180 400 220 Z" fill="#248E2C" opacity="0.8"/>
+      <text x="400" y="380" font-size="32" font-weight="bold" fill="#FAF7F0">BUILDING</text>
+      <text x="400" y="420" font-size="20" fill="#C9A227">JSR Multispeciality Hospital Rohtak</text>
+    </g>
+  </svg>
